@@ -1,7 +1,7 @@
 # Title from feature branch
 
-# hello world (remote 1)
+# hello world
 
-# hello world ( remote 2)
+# hello from feature
 
-# hello world (local)
+# hello world
